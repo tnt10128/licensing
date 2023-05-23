@@ -1,0 +1,4 @@
+NeptuneChatPlugin:
+  global:
+    console_message: Global message
+    disable_plugin: false
